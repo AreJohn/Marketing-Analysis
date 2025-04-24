@@ -19,6 +19,14 @@ FROM users
 WHERE gender = 'Female'
 ```
 
+## Python
+```python
+# Loading the required library
+import pandas as pd
+
+iport the data
+data = pd.read_csv('customers.csv')
+```
 
 ## Observations
 The data was loaded in excel.

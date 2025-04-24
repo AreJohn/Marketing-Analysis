@@ -28,6 +28,11 @@ iport the data
 data = pd.read_csv('customers.csv')
 ```
 
+## Sample table
+| Name | Sales|
+|------|------|
+|John| 50000|
+
 ## Observations
 The data was loaded in excel.
 

@@ -15,7 +15,7 @@
 ## Observations
 The data was loaded in excel.
 
-[Explore](!https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/explore.PNG)
+![Explore](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/explore.PNG)
 
  The dataset contains 7 rows and 2000 rows.
 Variables and data types:

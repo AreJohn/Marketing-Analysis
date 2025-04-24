@@ -12,6 +12,14 @@
 
 ##### This report presents an exploratory analysis of website traffic data, focusing on user engagement and behavior. The dataset includes key metrics such as page views, session duration, bounce rate, traffic sources, time on page, previous visits, and conversion rate. The objective is to uncover traffic trends, user interaction patterns, and optimization opportunities.
 
+## SQL
+``sql
+SELECT *
+FROM users
+WHERE gender = 'Female'
+``
+
+
 ## Observations
 The data was loaded in excel.
 
